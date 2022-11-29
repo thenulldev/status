@@ -1,7 +1,7 @@
 # Change these first
 owner: thenulldev # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-runner: "[self-hosted, linux, AMD64]"
+runner: "[self-hosted, linux, X64]"
 sites:
   - name: Homepage
     url: https://www.thenull.dev
